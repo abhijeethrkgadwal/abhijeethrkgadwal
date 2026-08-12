@@ -1,9 +1,23 @@
-- 👋 Hi, I’m Abhijeeth 
-- 👀 I’m interested in Javascipt frameworks mainly Reactjs,Nodejs and also curious about AI/ML.
-- 🌱 I’m currently working as Product Developer in multiple projects.
-- 📫 Reach me @ abhijeethrkgadwal@gmail.com for any collab or queries.
+# Hey, I’m Abhijeeth 👋
 
-<!---
-abhijeethrkgadwal/abhijeethrkgadwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Product Manager who loves to code.**
+I enjoy living at the intersection of **Product × Engineering × AI** — turning messy ideas into products, prototypes, and systems that actually work.
+
+* 🚀 Product Manager with a strong interest in **Technical Product Management, AI Product Management & Product Management**
+* 💻 I love coding and building with **JavaScript, React.js & Node.js**
+* 🤖 Curious about **AI/ML, LLMs, agents and emerging technology**
+* 🧠 Love going deep into **architecture, system design, APIs and engineering**
+* 🛠️ I love **prototyping MVPs** — idea → architecture → code → working product
+* 🤝 Enjoy working closely with engineers, collaborating, communicating and solving problems together
+* 🧪 Constantly experimenting, exploring new technologies and asking, *“What if we tried this?”*
+* 🔐 I have **more private repositories than public ones** — most of the experiments happen behind the scenes
+
+### My favourite loop
+
+`Think → Design → Build → Experiment → Break → Learn → Repeat`
+
+I like being the PM who can **understand the business problem, talk architecture with engineers, sketch the solution, and then open the IDE and build it.**
+
+If you're building something interesting, exploring AI, or just want to talk **product, engineering, architecture or technology** — let's connect.
+
+**Build things. Break things. Learn things. Repeat.**
